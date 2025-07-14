@@ -23,7 +23,8 @@ Grocify – Grocery Management System Grocify is a complete Grocery Management S
 2. Import `grocify.sql` into phpMyAdmin.
 3. Place project folder in `htdocs`.
 4. Start Apache & MySQL via XAMPP.
-5. Visit http://localhost/grocify/grocify_user/index.html
+5. Visit (Users) http://localhost/grocify/grocify_user/index.html
+6. Visit (Backend) http://localhost/grocify/grocify_backend/admin_login.html
 
 This is the only file in your project with a copyright statement. It means:
 •	All rights are reserved to the developers of Grocify.
